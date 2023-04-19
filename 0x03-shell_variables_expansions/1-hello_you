@@ -1,2 +1,3 @@
-#!/bin/bash
-echo "hello $USERNAME"
+ #!/bin/bash
+ echo "hello $USERNAME"
+
